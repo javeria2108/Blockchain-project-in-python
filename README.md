@@ -18,7 +18,7 @@ This project demonstrates a basic blockchain implementation using Python and Fla
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Blockchain-project-in-python.git
+    git clone https://github.com/javeria2108/Blockchain-project-in-python.git
     cd Blockchain-project-in-python
     ```
 
