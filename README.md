@@ -18,8 +18,8 @@ This project demonstrates a basic blockchain implementation using Python and Fla
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/blockchain-python.git
-    cd blockchain-python
+    git clone https://github.com/your-username/Blockchain-project-in-python.git
+    cd Blockchain-project-in-python
     ```
 
 2. **Create a virtual environment and activate it:**
@@ -118,10 +118,3 @@ This project demonstrates a basic blockchain implementation using Python and Fla
 - **`/get_chain`**: Returns the blockchain.
 - **`/nodes/register`**: Registers new nodes.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
